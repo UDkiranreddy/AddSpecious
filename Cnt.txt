@@ -1,0 +1,10 @@
+Continent we have eight continents in earth
+1 Asia
+2 Africa
+3 Austrilia
+4 Panzia
+5 North Atlantic
+6 South Atlantic
+7 North America
+O South America
+
